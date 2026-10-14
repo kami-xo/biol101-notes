@@ -184,3 +184,117 @@ Ecdysozoan protostome bilaterian animals; includes chelicerates (arachnids and r
 - 2 tagmata.
 - Breathe with book lungs and/or tracheae.
 - Some (spiders) spin silk.
+
+# Arthropods II: Myriapods
+
+## Mandibulata
+Myriapods, crustaceans, and hexapods have **mandibles** (mouthparts for biting, slicing, and chewing).
+
+## Myriapoda
+- Respire with **tracheae** (air tubes) that open through **spiracles**.
+- 2 tagmata: head and trunk, with many **uniramous** appendages (one branch per leg; also found in chelicerates and hexapods).
+- One pair of antennae.
+- Compound eyes are *lost*; they have clusters of simple eyes instead.
+
+**Two major clades:**
+- **Chilopoda:** centipedes
+- **Diplopoda:** millipedes
+
+## Chilopoda ("Lip Foot")
+- Centipedes.
+- **One pair** of legs per trunk segment.
+	- The number of pairs varies by species, from 15 up to over 170 (always an odd number).
+	- The first pair is modified into venom fangs (forcipules).
+- Active predators.
+	- Secretive; hide under rocks and logs.
+	- Dorsoventrally flattened (flat from top to bottom).
+	- Immobilize prey with venom from the fangs.
+
+## Diplopoda ("Double Foot")
+- Millipedes.
+- **Two pairs** of legs per trunk segment.
+	- The first few segments have only 1 pair.
+	- The remaining segments are fused **diplosegments**, each with 2 pairs.
+- Slow-moving herbivores/detritivores with robust mouthparts for eating plant material.
+- Because they are slow, they rely on defense:
+	- Heavily armored cuticle
+	- Noxious fluids exuded from the sides of the body
+
+# Arthropods II: Crustacean Biology
+
+- The name comes from the "crust" (hard shell) of the group.
+- Includes crabs, lobsters, shrimp, and barnacles.
+- ~67,000 species.
+- Aquatic, mostly marine; most respire with gills.
+- Free-living or sessile.
+- Predatory, suspension feeding, or parasitic.
+
+**Synapomorphies and features:**
+- **Two pairs of antennae**
+- **Biramous** appendages (two branches per jointed appendage)
+- Compound eyes, often on stalks
+- Body usually divided into 2-3 tagmata (e.g., cephalothorax and abdomen)
+
+# Hexapoda
+
+- Includes the insects.
+- **Synapomorphies:**
+	- Three pairs of legs on the thorax
+	- Three tagmata: head, thorax, abdomen
+
+## Insect Success
+- 1 million+ described species.
+- Ecological diversity.
+- Segmentation: 3 tagmata, with 3 segments in the thorax.
+- Many are small, so they can exploit tiny habitats.
+- Watertight (waxy) exoskeleton.
+- Flight.
+- Specialized mouthparts.
+- Coevolution with plants (e.g., pollination).
+- Metamorphosis.
+
+### Plants Get Their Revenge
+- Some plants have seeds that mimic feces, which ensures dispersal by dung beetles.
+
+## Metamorphosis
+- **Complete metamorphosis:** egg → larva → pupa → adult (e.g., flies, butterflies, beetles, ants, bees).
+- **Incomplete metamorphosis:** egg → nymph → adult, with no pupal stage (e.g., grasshoppers, true bugs).
+
+## The 4 Most Important Insect Clades
+- **Coleoptera:** beetles
+- **Hymenoptera:** bees, wasps, and ants
+- **Diptera:** flies
+- **Lepidoptera:** butterflies and moths
+
+*(The "Great Divergence" recap, Protostomia vs. Deuterostomia, is covered above.)*
+
+# Echinodermata ("Spiny Skin")
+
+- Deuterostomes; includes sea stars, sea urchins, sea cucumbers, brittle stars, and sea lilies.
+- ~7,000 living species.
+- Exclusively marine.
+- Economically important (we eat some, e.g., sea urchin roe and sea cucumber).
+- Ecologically important.
+
+**Synapomorphies:**
+- Pentaradial symmetry
+- Water vascular system (locomotion and sometimes feeding)
+- Calcareous endoskeleton
+
+## Pentaradial Symmetry (5-fold)
+- Adults have no head and show 5-fold symmetry around a central disc.
+- Larvae have bilateral symmetry.
+
+## Water Vascular System
+- A hydrostatic pressure system that operates the **tube feet**.
+- Used for locomotion and sometimes feeding.
+- Tube feet extend from the **ambulacral grooves**.
+
+## Calcareous Endoskeleton
+- A **test** made of small calcareous plates (**ossicles**) bound together with collagen.
+- Covered by epidermis (skin) with spines and **pedicellariae**.
+	- Pedicellariae are pincer-like structures that remove debris from around the respiratory structures and aid in defense.
+
+## Reproduction
+- Sexual, or asexual through **fragmentation**.
+- **Fragmentation:** breaking the body into pieces, some or all of which develop into adults. It must be accompanied by **regeneration** (regrowth of lost body parts).
